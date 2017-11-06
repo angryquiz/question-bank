@@ -1,4 +1,12 @@
 # Compiled class file
+
+.DS_Store
+
+.classpath
+.project
+.settings/
+target/
+
 *.class
 
 # Log file
